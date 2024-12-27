@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://preview.colorlib.com/theme/blogger/img/f1.jpg",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "title": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": "2",
+      "image": "https://preview.colorlib.com/theme/blogger/img/f2.jpg",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "title": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": "3",
+      "image": "https://preview.colorlib.com/theme/blogger/img/f3.jpg",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "title": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": "4",
+      "image": "https://preview.colorlib.com/theme/blogger/img/f4.jpg",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "title": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": "5",
+      "image": "https://preview.colorlib.com/theme/blogger/img/c1.jpg",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "title": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": "6",
+      "image": "https://preview.colorlib.com/theme/blogger/img/c2.jpg",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "title": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    }
+  ],
+  "wish": [
+    {
+      "id": "3",
+      "name": "Addiction When Gambling Becomes A Problem",
+      "image": "https://preview.colorlib.com/theme/blogger/img/f3.jpg"
+    }
+  ],
+  "cart": []
+}
